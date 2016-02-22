@@ -7,7 +7,8 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM ubuntu:latest
+
 
 # Install Java.
 RUN \
