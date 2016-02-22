@@ -1,10 +1,5 @@
 # Comment
 #
-# Oracle Java 7 Dockerfile
-#
-# https://github.com/dockerfile/java
-# https://github.com/dockerfile/java/tree/master/oracle-java7
-#
 
 # Pull base image.
 FROM ubuntu:latest
